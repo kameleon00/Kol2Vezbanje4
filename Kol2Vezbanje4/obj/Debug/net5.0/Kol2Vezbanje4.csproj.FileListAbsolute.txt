@@ -1,0 +1,16 @@
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4.deps.json
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4.runtimeconfig.json
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4.runtimeconfig.dev.json
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4.dll
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/ref/Kol2Vezbanje4.dll
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/bin/Debug/net5.0/Kol2Vezbanje4.pdb
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.csprojAssemblyReference.cache
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.GeneratedMSBuildEditorConfig.editorconfig
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.AssemblyInfo.cs
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.dll
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/ref/Kol2Vezbanje4.dll
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.pdb
+/home/kameleon/Desktop/Kol2Vezbanje4/Kol2Vezbanje4/obj/Debug/net5.0/Kol2Vezbanje4.genruntimeconfig.cache
